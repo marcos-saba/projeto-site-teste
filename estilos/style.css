@@ -12,5 +12,26 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.463);
+    box-shadow: 3px 3px 5pxx rgba(0, 0, 0, 0.463);
+}
+
+h1 {
+    font-size: 2cm;
+    color: rgb(58, 0, 112);
+}
+
+h2 {
+    font-size: 1.5cm;
+    color: rgb(58, 0, 112);
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(58, 0, 112);
 }
